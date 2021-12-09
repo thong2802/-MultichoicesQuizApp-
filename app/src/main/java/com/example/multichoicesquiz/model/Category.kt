@@ -1,0 +1,3 @@
+package com.example.multichoicesquiz.model
+
+data class Category(val id : Int, val name : String?, val image : String?)
